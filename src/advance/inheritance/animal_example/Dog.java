@@ -11,7 +11,7 @@ public class Dog extends Animal {
 
     @Override
     public String yieldVoice() {
-        return "voice: " + voice;
+        return "Dog voice: " + voice;
 
     }
 }
